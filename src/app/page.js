@@ -192,7 +192,7 @@ footer{padding:48px 0 32px;border-top:1px solid rgba(160,130,92,.06)}
   </div>
 </nav>
 
-<!-- HERO -->
+
 <section className="hero">
   <div className="hero-inner">
     <div className="h-tag">Becoming Better Men</div>
@@ -207,7 +207,7 @@ footer{padding:48px 0 32px;border-top:1px solid rgba(160,130,92,.06)}
   <div className="scroll-ind">Scroll</div>
 </section>
 
-<!-- REALITY -->
+
 <section className="reality">
   <div className="wrap">
     <div className="reality-text">
@@ -217,7 +217,7 @@ footer{padding:48px 0 32px;border-top:1px solid rgba(160,130,92,.06)}
   </div>
 </section>
 
-<!-- WHAT -->
+
 <section className="sec sec-dark" id="about">
   <div className="wrap">
     <div className="what-grid">
@@ -250,14 +250,14 @@ footer{padding:48px 0 32px;border-top:1px solid rgba(160,130,92,.06)}
   </div>
 </section>
 
-<!-- QUOTE -->
+
 <section className="quote-sec">
   <div className="wrap">
     <p className="quote">A man can hide from a crowd.<br/>He cannot hide from <em>eight men who know his name, his goals, and his gaps.</em></p>
   </div>
 </section>
 
-<!-- DIMENSIONS -->
+
 <section className="sec sec-light" id="dimensions">
   <div className="wrap">
     <div className="dim-intro">
@@ -276,7 +276,7 @@ footer{padding:48px 0 32px;border-top:1px solid rgba(160,130,92,.06)}
   </div>
 </section>
 
-<!-- PROGRAMME -->
+
 <section className="sec sec-deep" id="programme">
   <div className="wrap">
     <div className="cycle-head">
@@ -308,14 +308,14 @@ footer{padding:48px 0 32px;border-top:1px solid rgba(160,130,92,.06)}
   </div>
 </section>
 
-<!-- QUOTE 2 -->
+
 <section className="quote-sec">
   <div className="wrap">
     <p className="quote">The system meets you where you are.<br/><em>Not where you pretend to be.</em></p>
   </div>
 </section>
 
-<!-- COMMUNITY -->
+
 <section className="sec sec-light">
   <div className="wrap">
     <div className="dim-intro">
@@ -331,7 +331,7 @@ footer{padding:48px 0 32px;border-top:1px solid rgba(160,130,92,.06)}
   </div>
 </section>
 
-<!-- INTAKE -->
+
 <section className="sec sec-dark intake-sec" id="intake">
   <div className="wrap">
     <div className="intake-label">Begin</div>
@@ -342,7 +342,7 @@ footer{padding:48px 0 32px;border-top:1px solid rgba(160,130,92,.06)}
   </div>
 </section>
 
-<!-- FOOTER -->
+
 <footer>
   <div className="wrap">
     <div className="f-inner">
@@ -350,7 +350,7 @@ footer{padding:48px 0 32px;border-top:1px solid rgba(160,130,92,.06)}
         <div className="f-mark">BBM</div>
         <div className="f-tag">To Love, Lead, and Live.</div>
       </div>
-      <div style="text-align:right">
+      <div style={{textAlign:"right"}}>
         <div className="f-links">
           <a href="#about">The Movement</a>
           <a href="#dimensions">Dimensions</a>
